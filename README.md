@@ -1,5 +1,5 @@
 <h1 >Marcan Hasanova</h1>
-<h3 >Front-en developer</h3>
+<h2 >Front-en developer</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
